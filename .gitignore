@@ -4,4 +4,4 @@ uploads/*
 
 *.sqlite
 
-
+.vscode
